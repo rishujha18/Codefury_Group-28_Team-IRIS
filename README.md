@@ -1,5 +1,3 @@
-# CodeFury Project: Batch DA3, Team 1
-## Team Name: 404Found
 
 Our project application, the **AMP**, or the **Asset Management Portal** is an e-asset management application which keeps track of assets. The system can have multiple assets, which the employees can borrow. The admin keeps track of these transactions, and in case of any late returning, adding new items, etc. In addition to these, there is also a functionality of **sending a custom message to the user!** 
 
